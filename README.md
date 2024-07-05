@@ -24,7 +24,7 @@ Example 1:
 > Output: [-1,-1]</br>
 > Explanation: There are no critical points in [3,1].
 
->Example 2:
+Example 2:
 
 <div align = "center">
 
